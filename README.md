@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello, I'm Viviana Itzel ✨</h1>
+<h1 align="center">✨ Hey, I'm Viviana Itzel, welcome to my perfil ✨</h1>
 <h3 align="center">A passionate Development Software from México 🌸</h3>
 
 🌱 I’m currently learning **[Tecnologías que estás aprendiendo]**  
@@ -13,8 +13,8 @@
 ---
 
 ###  Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253)  
+<a href="https://instagram.com/anai_vivv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anai_vivv" height="30" width="40" /></a>
 
 ---
 
