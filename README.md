@@ -20,7 +20,7 @@ Aspiring Software Developer Student with hands-on experience in both academic an
 ---
 
 ### 🌸 Tools & Technologies  
-![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8e8DY2HEtxzguVyTkNj1DmaQglni2j9SRw&s)
+![Python](<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8e8DY2HEtxzguVyTkNj1DmaQglni2j9SRw&s" alt="Python" width="50">)
 ![Django](https://www.svgrepo.com/show/353657/django-icon.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png)
