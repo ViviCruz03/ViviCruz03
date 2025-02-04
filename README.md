@@ -1,13 +1,14 @@
-<h1 align="center">✨ Hey, I'm Viviana Itzel, welcome to my perfil ✨</h1>
-<h3 align="center">A passionate Development Software from México 🌸</h3>
+<h1 align="center">✨ Hello, I'm Viviana Itzel, welcome to my perfil ✨</h1>
 
-🌱 
-💻  
+Aspiring Software Developer Student with hands-on experience in both academic and professional projects, providing me with valuable insights and skills. I am a self-motivated learner with a passion for web development.
 
 ---
 
 ### 🌷 Interests  
-🎶 Music | 🎮 Videogames | 💻 Programming | 🚶   
+🎶 Music  
+🎮 Videogames 
+💻 Programming  
+🚶   
 
 ---
 
@@ -19,8 +20,12 @@
 ---
 
 ### 🌸 Tools & Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8e8DY2HEtxzguVyTkNj1DmaQglni2j9SRw&s)
+![Django](https://www.svgrepo.com/show/353657/django-icon.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png)
+![Git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png)
+
+
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViviCruz03&show_icons=true&locale=en&layout=compact" alt="ViviCruz03" width="100%" height="300" /></p>
