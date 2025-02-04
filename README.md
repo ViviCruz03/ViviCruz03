@@ -1,9 +1,8 @@
 <h1 align="center">✨ Hey, I'm Viviana Itzel, welcome to my perfil ✨</h1>
 <h3 align="center">A passionate Development Software from México 🌸</h3>
 
-🌱 I’m currently learning **[Tecnologías que estás aprendiendo]**  
-💻 Currently working on **[Proyectos en los que trabajas]**  
-📫 Reach me at **[Correo o redes sociales]** 💌  
+🌱 
+💻  
 
 ---
 
@@ -14,7 +13,7 @@
 
 ###  Connect with me  
 <a href="https://instagram.com/anai_vivv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anai_vivv" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/anai_vivv" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="anai_vivv" height="30" width="40" /></a>
 
 
 ---
