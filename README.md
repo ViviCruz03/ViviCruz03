@@ -13,7 +13,6 @@
 ---
 
 ###  Connect with me  
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253)   -->
 <a href="https://instagram.com/anai_vivv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anai_vivv" height="30" width="40" /></a>
 
 
