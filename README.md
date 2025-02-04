@@ -13,7 +13,7 @@
 
 ###  Connect with me  
 <a href="https://instagram.com/anai_vivv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anai_vivv" height="30" width="40" /></a>
-<a href="https://linkedin.com/anai_vivv" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="anai_vivv" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="viviana-itzel-cruz-de-jesus-32934b253" height="40" width="50" /></a>
 
 
 ---
