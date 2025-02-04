@@ -23,9 +23,9 @@ Aspiring Software Developer Student with hands-on experience in both academic an
 <div style="display: flex; align-items: center; gap: 20px;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8e8DY2HEtxzguVyTkNj1DmaQglni2j9SRw&s" alt="Python" width="50">
 <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60">
-<img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript" width="50">
+<img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript" width="7aaa0">
 <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React" width="50">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="5+60">
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60">
 </div>
 
 
