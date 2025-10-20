@@ -46,11 +46,13 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 ---
 
 ### ⚙️ Herramientas y Tecnologías  
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40"/>
-<img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60">
-`JavaScript` · `Python` · `HTML` · `CSS` · `Bootstrap` · `Google Cloud` · `Git` · `VSCode` · `Canva`
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/django/092E20" width="40" alt="Django"/>
+  <img src="https://cdn.simpleicons.org/angular/DD0031" width="40" alt="Angular"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" alt="MySQL"/>
+</p>
 
 ---
 
