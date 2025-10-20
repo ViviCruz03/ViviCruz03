@@ -64,7 +64,7 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 Si estás interesado en **colaborar o trabajar juntos**, ¡estaré encantada de escuchar de ti!  
 
-<a href="mailto:itzelcj.ti21@utsjr.edu.com">
+<a href="mailto:itzelcj.ti21@utsjr.edu.mx">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/>
 </a>
 <a href="https://www.instagram.com/anai_vivv">
