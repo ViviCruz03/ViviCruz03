@@ -46,13 +46,14 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 ---
 
 ### ⚙️ Herramientas y Tecnologías  
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60">
 `JavaScript` · `Python` · `HTML` · `CSS` · `Bootstrap` · `Google Cloud` · `Git` · `VSCode` · `Canva`
 
 ---
 
 ### 💌 Contáctame  
 
-Si estás interesado en **colaborar o trabajar juntos**, ¡estaré encantado de escuchar de ti!  
+Si estás interesado en **colaborar o trabajar juntos**, ¡estaré encantada de escuchar de ti!  
 
 📧 **[itzelcj.ti21@utsjr.edu.com](mailto:itzelcj.ti21@utsjr.edu.com)**  
 📷 [Instagram](https://www.instagram.com/anai_vivv)
