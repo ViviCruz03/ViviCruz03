@@ -27,13 +27,13 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 | **Categoría** | **Habilidades** |
 |----------------|----------------|
-| **Frameworks** | Angular, Django, Flask, PyQt |
-| **Lenguajes** | Python, JavaScript, TypeScript, C# |
-| **Estilos & UI** | HTML, CSS, Bootstrap, Tailwind |
-| **Base de Datos** | MySQL, PostgreSQL, Firebase |
+| **Frameworks** | Angular, Django |
+| **Lenguajes** | Python, JavaScript |
+| **Estilos & UI** | HTML, CSS, Bootstrap|
+| **Base de Datos** | MySQL, Firebase |
 | **Servicios & Tools** | Git, Google Cloud, REST APIs |
-| **IDE & Entornos** | VSCode, PyCharm, Android Studio |
-| **Hosting** | Vercel, Netlify, Render |
+| **IDE & Entornos** | VSCode, Android Studio |
+| **Hosting** | Netlify, Render |
 | **Diseño** | Canva, Figma |
 | **Aprendiendo** | DevOps, Docker, FastAPI |
 
