@@ -1,8 +1,11 @@
 # 👩‍💻 Viviana Itzel - Desarrollador de Software  
 
-[![LinkedIn](https://img.shields.io/badge/- -?style=flat-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253/)
-[![GitHub](https://img.shields.io/badge/- -?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/ViviCruz03)
-
+<a href="https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253/">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="35" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ViviCruz03">
+  <img src="https://cdn.simpleicons.org/github/181717" width="35" alt="GitHub"/>
+</a>
 
 ---
 
