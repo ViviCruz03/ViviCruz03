@@ -1,4 +1,4 @@
-# 👨‍💻 Viviana Itzel - Desarrollador de Software  
+# 👩‍💻 Viviana Itzel - Desarrollador de Software  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil-linkedin](https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViviCruz03)
@@ -40,12 +40,15 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 ### 📊 Estadísticas  
 
-[![Viviana GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViviCruz03&show_icons=true&theme=radical)](https://github.com/ViviCruz03)  
+[![Viviana GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViviCruz03&show_icons=true&theme=tokyonight)](https://github.com/ViviCruz03)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViviCruz03&layout=compact&theme=radical)](https://github.com/ViviCruz03)
 
 ---
 
 ### ⚙️ Herramientas y Tecnologías  
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40"/>
+<img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60">
 `JavaScript` · `Python` · `HTML` · `CSS` · `Bootstrap` · `Google Cloud` · `Git` · `VSCode` · `Canva`
 
