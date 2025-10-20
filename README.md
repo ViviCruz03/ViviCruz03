@@ -47,7 +47,7 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 ### ⚙️ Herramientas y Tecnologías  
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html/E34F26" width="40" alt="Html"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="Html"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Github"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva"/>
   <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="Github"/>
@@ -64,7 +64,7 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 Si estás interesado en **colaborar o trabajar juntos**, ¡estaré encantada de escuchar de ti!  
 
-<a href="itzelcj.ti21@utsjr.edu.com">
+<a href="mailto:itzelcj.ti21@utsjr.edu.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/>
 </a>
 <a href="https://www.instagram.com/anai_vivv">
