@@ -47,6 +47,10 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 ### ⚙️ Herramientas y Tecnologías  
 <p align="center">
+  <img src="https://cdn.simpleicons.org/python/181717" width="40" alt="Html"/>
+  <img src="https://cdn.simpleicons.org/python/E34F26" width="40" alt="Github"/>
+  <img src="https://cdn.simpleicons.org/python/00C4CC" width="40" alt="Canva"/>
+  <img src="https://cdn.simpleicons.org/python/181717" width="40" alt="Github"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"/>
   <img src="https://cdn.simpleicons.org/django/092E20" width="40" alt="Django"/>
   <img src="https://cdn.simpleicons.org/angular/DD0031" width="40" alt="Angular"/>
@@ -60,8 +64,13 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 Si estás interesado en **colaborar o trabajar juntos**, ¡estaré encantada de escuchar de ti!  
 
-📧 **[itzelcj.ti21@utsjr.edu.com](mailto:itzelcj.ti21@utsjr.edu.com)**  
-📷 [Instagram](https://www.instagram.com/anai_vivv)
+<a href="mailto:itzelcj.ti21@utsjr.edu.com">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" width="30" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/anai_vivv">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/>
+</a>
+
 
 ---
 
