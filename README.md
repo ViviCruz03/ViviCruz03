@@ -1,36 +1,61 @@
-<h1 align="center">✨ Hello, I'm Viviana Itzel, welcome to my perfil ✨</h1>
+# 👨‍💻 Viviana Itzel - Desarrollador de Software  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil-linkedin](https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViviCruz03)
+
+---
+
+### 👋 About me
 Aspiring Software Developer Student with hands-on experience in both academic and professional projects, providing me with valuable insights and skills. I am a self-motivated learner with a passion for web development.
 
 ---
 
-### 🌷 Interests  
-🎶 Music  
-🎮 Videogames 
-💻 Programming  
-🚶   
-
----
-
-###  Connect with me  
-<a href="https://instagram.com/anai_vivv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anai_vivv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/viviana-itzel-cruz-de-jesus-32934b253/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="viviana-itzel-cruz-de-jesus-32934b253" height="40" width="50" /></a>
+### 📘 Resumen Profesional  
+Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a través de **servicios web y aplicaciones móviles**, con el objetivo de **automatizar procesos, abordar desafíos empresariales y mejorar la eficiencia de los proyectos**.
 
 
 ---
 
-### 🌸 Tools & Technologies
-<div style="display: flex; align-items: center; gap: 20px;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8e8DY2HEtxzguVyTkNj1DmaQglni2j9SRw&s" alt="Python" width="50">
-<img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60">
-<img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript" width="70">
-<img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React" width="50">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60">
-</div>
+### 📚 Educación  
+🎓 **Ingeniería en Desarrollo y Gestión de Software** — *Universidad Tecnológica de San Juan del Río (UTSJR)*  
+🎓 **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software** — *UTSJR*
 
+---
 
+### ⚙️ Skills  
 
+| **Categoría** | **Habilidades** |
+|----------------|----------------|
+| **Frameworks** | Angular, Django, Flask, PyQt |
+| **Lenguajes** | Python, JavaScript, TypeScript, C# |
+| **Estilos & UI** | HTML, CSS, Bootstrap, Tailwind |
+| **Base de Datos** | MySQL, PostgreSQL, Firebase |
+| **Servicios & Tools** | Git, Google Cloud, REST APIs |
+| **IDE & Entornos** | VSCode, PyCharm, Android Studio |
+| **Hosting** | Vercel, Netlify, Render |
+| **Diseño** | Canva, Figma |
+| **Aprendiendo** | DevOps, Docker, FastAPI |
 
+---
 
+### 📊 Estadísticas  
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViviCruz03&show_icons=true&locale=en&layout=compact" alt="ViviCruz03" width="100%" height="300" /></p>
+[![Viviana GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViviCruz03&show_icons=true&theme=radical)](https://github.com/ViviCruz03)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViviCruz03&layout=compact&theme=radical)](https://github.com/ViviCruz03)
+
+---
+
+### ⚙️ Herramientas y Tecnologías  
+`JavaScript` · `Python` · `HTML` · `CSS` · `Bootstrap` · `Google Cloud` · `Git` · `VSCode` · `Canva`
+
+---
+
+### 💌 Contáctame  
+
+Si estás interesado en **colaborar o trabajar juntos**, ¡estaré encantado de escuchar de ti!  
+
+📧 **[itzelcj.ti21@utsjr.edu.com](mailto:itzelcj.ti21@utsjr.edu.com)**  
+📷 [Instagram](https://www.instagram.com/anai_vivv)
+
+---
+
