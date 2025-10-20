@@ -48,6 +48,7 @@ Diseñar, desarrollar e implementar **soluciones tecnológicas innovadoras** a t
 
 ### ⚙️ Herramientas y Tecnologías  
 <p align="center">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Html"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="Html"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Github"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva"/>
